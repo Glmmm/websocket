@@ -1,7 +1,3 @@
-Claro, vamos transformar o seu texto em um `README.md` formatado para o GitHub.
-
----
-
 # Servidor Node.js com Express e WebSockets
 
 Este projeto demonstra um servidor Node.js que combina **Express.js** para lidar com rotas HTTP regulares e **WebSockets** (usando a biblioteca `ws`) para comunicação bidirecional em tempo real. Ele também implementa um sistema de autenticação simples para as conexões WebSocket.
@@ -205,7 +201,3 @@ O código base é funcional, mas para um ambiente de produção ou para torná-l
 - **Testes Unitários:** Teste componentes individuais, como a função `auth`.
 - **Testes de Integração:** Teste o fluxo completo do sistema, da conexão à troca de mensagens.
 - **Testes de Carga:** Avalie o desempenho do servidor sob alta demanda de clientes e mensagens.
-
----
-
-Espero que esta formatação seja útil para o seu `README.md` no GitHub\! Se precisar de mais alguma coisa ou quiser explorar alguma dessas melhorias, é só dizer\!
